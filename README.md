@@ -29,15 +29,16 @@ Works directly in your browser — no installation needed!
 
 Download the latest version from the **[Releases](https://github.com/Tanzeel-Jutt/UML-Generator-Pro-App/releases)** page.
 
-### Requirements
-- **Java 21** or higher ([Download Java](https://adoptium.net/))
+### 🪟 Windows (Recommended)
+Download **`UML-Generator-Pro-Windows-x64.zip`**. 
+1. Extract the ZIP file.
+2. Open the folder and run **`UML-Generator-Pro.exe`**.
+*No Java installation required!*
 
-### How to Run
-```bash
-java -jar UML-Generator-Pro-1.0.0.jar
-```
-
-Or simply **double-click** the JAR file (if Java is properly installed).
+### ☕ Cross-Platform (JAR)
+Download **`uml-generator-pro-1.0.0.jar`**.
+- Requires **Java 21** or higher.
+- Run via command line: `java -jar uml-generator-pro-1.0.0.jar` or double-click.
 
 ## 📸 Supported Languages
 
