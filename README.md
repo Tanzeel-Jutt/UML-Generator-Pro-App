@@ -30,10 +30,15 @@ Works directly in your browser — no installation needed!
 Download the latest version from the **[Releases](https://github.com/Tanzeel-Jutt/UML-Generator-Pro-App/releases)** page.
 
 ### 🪟 Windows (Recommended)
-Download **`UML-Generator-Pro-Windows-x64.zip`**. 
-1. Extract the ZIP file.
-2. Open the folder and run **`UML-Generator-Pro.exe`**.
+Download **`UML-Generator-Pro-Setup-1.0.0.exe`**.
+1. Run the installer.
+2. It will automatically install the app and create a **Desktop Shortcut**.
 *No Java installation required!*
+
+### 📁 Windows Portable (ZIP)
+Download **`UML-Generator-Pro-Windows-x64.zip`**. 
+- Extract and run `UML-Generator-Pro.exe` directly.
+- No installation needed.
 
 ### ☕ Cross-Platform (JAR)
 Download **`uml-generator-pro-1.0.0.jar`**.
